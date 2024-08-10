@@ -5,7 +5,7 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/mwtutech/termux-shell.git
+git clone https://github.com/mwtutech/termux-shell-master.git
 cd termux-shell
 chmod +x *
 sh install.sh
