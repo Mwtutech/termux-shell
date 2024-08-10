@@ -5,7 +5,7 @@ G# TERMUX Parrot Shell
 ```
 apt update
 apt install git -y
-git clone https://github.com/mwtutech/termux-shell-master.git
+git clone https://github.com/mwtutech/termux-shell.git
 cd termux-shell
 chmod +x *
 sh install.sh
