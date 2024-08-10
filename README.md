@@ -1,4 +1,4 @@
-# TERMUX Parrot Shell 
+G# TERMUX Parrot Shell 
 #### Beautify your Termux App 😎
 
 ## [+] Installation & Usage
@@ -13,7 +13,7 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/mwtutech/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/mwtutech/termux-shell.git && cd termux-shell-master && chmod +x * && sh install.sh
 ```
 
 #### Credit : https://github.com/TechnicalMujeeb/
